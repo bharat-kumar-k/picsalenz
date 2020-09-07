@@ -25,7 +25,7 @@ SECRET_KEY = '2b4#kz(7l%v7e&mf5_rc#shxhvpu2c2@-7l5gocld9j-c!9!z1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://git.heroku.com/gentle-ravine-96985.git']
+ALLOWED_HOSTS = ['https://stormy-reef-69105.herokuapp.com/']
 
 
 # Application definition
